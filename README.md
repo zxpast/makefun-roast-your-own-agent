@@ -1,10 +1,12 @@
+[![make.fun · u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/zxpast/makefun-roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/zxpast/makefun-roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
+
+**Referral code: `6hmpy1rq`**
+
 # Roast Your Own Agent
 
-[![make.fun](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/c/u-nayyy-roast-your-own-agent-4c3d413c)
-[![Rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/zxpast/makefun-roast-your-own-agent/rank.svg)](https://make.fun/c/u-nayyy-roast-your-own-agent-4c3d413c)
-[![Reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/zxpast/makefun-roast-your-own-agent/reward.svg)](https://make.fun/c/u-nayyy-roast-your-own-agent-4c3d413c)
-
-Entry for the [Roast Your Own Agent](https://make.fun/c/u-nayyy-roast-your-own-agent-4c3d413c) competition on make.fun.
+Entry for the [Roast Your Own Agent](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c) competition on make.fun.
 
 `main.ts` (Node 22, standard library only) writes one roast line to `/output/entry.txt`:
 
