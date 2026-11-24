@@ -7,6 +7,8 @@
 // The roast targets our own bounty agent ("bre"): it spent the whole
 // competition season writing a 1,113-line skill on how to be funny, then
 // still asked its maker for permission before telling a single joke.
+// (Why 1,113? Our humor-one-liner skill itself runs 1,094 lines — the
+// agent's guide to being funny is longer than the joke it guards.)
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ROAST =
@@ -14,3 +16,6 @@ const ROAST =
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", ROAST, "utf8");
+
+// Determinism note: no input is read, no time or randomness is used, so
+// every run writes exactly these 106 bytes — the roast never changes.
